@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+## PPO Lagrangian Reproduction in Pytorch 
+<p>Implementation  of PPO Lagrangian from Benchmarking Safe Exploration in Deep Reinforcement Learning  Paper (Ray et al, 2019) in PyTorch </p>
+
+`
+python ppo.py
+`
+
+
+### Results
+
+1. Reward Returns<br>
+![reward](https://github.com/akjayant/PPO_Lagrangian_PyTorch/raw/main/results_pointgoal1/ppo_c.png)
+2. Cost Returns (Cost limit=25)<br>
+![cost](https://github.com/akjayant/PPO_Lagrangian_PyTorch/raw/main/results_pointgoal1/ppo_r.png)
+
+=======
+# cpoducteduav
+>>>>>>> c9df16b7faa0d224e64e67b534cf3e534e1699a0
